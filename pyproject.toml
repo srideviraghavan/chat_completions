@@ -1,0 +1,11 @@
+[project]
+name = "langchain-lmstudio-starter"
+version = "0.1.0"
+description = "Simple LangChain starter for LM Studio"
+requires-python = ">=3.10"
+dependencies = [
+    "langchain>=0.3.0",
+    "langchain-openai>=0.2.0",
+    "python-dotenv>=1.0.1",
+]
+
